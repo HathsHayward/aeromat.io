@@ -19,6 +19,6 @@ The assets in this repository are intended for use on the Aeromat.io website, sp
 
 To reference these assets on the Aeromat.io website, use the following URLs:
 
-- **Dark Mode Logo**: https://raw.githubusercontent.com/HathsHayward/aeromat.io/main/logo-white.svg
+- **Dark Mode Logo**: https://cdn.jsdelivr.net/gh/HathsHayward/aeromat.io@main/assets/logo-white.svg
 
-- **Light Mode Logo**: https://raw.githubusercontent.com/HathsHayward/aeromat.io/main/logo-black.svg
+- **Light Mode Logo**: https://cdn.jsdelivr.net/gh/HathsHayward/aeromat.io@main/assets/logo-black.svg
